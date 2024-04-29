@@ -17,3 +17,5 @@ LAB-08:[DECISION TREES FOR CLASSIFICATION](https://github.com/Bandi-krupa-Bhavan
 LAB-09:[IMPLEMENT RANDOM FOREST ENSEMBLE MODEL USING LENDING DATA](https://github.com/Bandi-krupa-Bhavani/AIML-2024-25/blob/main/LAB_09.ipynb)
 
 LAB-10:[IMPLEMENT K-MEANS CLUSTERING USING SYNTHETIC DATA](https://github.com/Bandi-krupa-Bhavani/AIML-2024-25/blob/main/LAB_10.ipynb)
+
+COURSE PROJECT:[SONG LYRICS GENERATOR USING AI](https://github.com/Bandi-krupa-Bhavani/AIML-2024-25/blob/main/COURSE_PROJECT_AIML.ipynb)
